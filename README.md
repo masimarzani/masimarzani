@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Masoumeh%20Marzani&fontSize=90&stroke=0000FF&strokeWidth=3&animation=fadeIn&fontColor=FFFFFF&desc=Frontend%20Maestro%20%7C%20Code%20Artisan&descAlignY=65" width="100%" alt="Profile Header" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Masoumeh%20Marzani&fontSize=90&stroke=0000FF&strokeWidth=3&animation=fadeIn&fontColor=FFFFFF&desc=Backend%20Maestro%20%7C%20Code%20Architect&descAlignY=65" width="100%" alt="Profile Header" />
 </div>
 
 <p align="center">
   <a href="https://github.com/masimarzani">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3AAEF7&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%9A%80+Frontend+Developer;%F0%9F%8C%9F+UI%2FUX+Enthusiast;%F0%9F%92%A1+Continuous+Learner;%F0%9F%8C%88+Creative+Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3AAEF7&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%9A%80+Backend+Developer;%F0%9F%8C%9F+API+Architect;%F0%9F%92%A1+Database+Expert;%F0%9F%8C%88+Scalability+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
@@ -24,12 +24,12 @@
 const masoumeh: Object = {
   age: 20,
   location: "Iran 🇮🇷",
-  title: "JS Developer",
-  skills: ["TypeScript", "Nest.js", "Backend Developer"],
-  passions: ["DB Design", "Web Performance", "Clean Code"],
-  learning: "Nest.js for full-stack mastery",
-  hobbies: ["Coding", "Reading Tech Blogs", "Coffee Brewing ☕"],
-  funFact: "I can debug code faster than I can find my keys! 🔑💻"
+  title: "Backend Developer",
+  skills: ["Node.js", "Express.js", "Nest.js", "TypeScript", "MongoDB", "MySQL"],
+  passions: ["API Design", "Database Optimization", "Microservices"],
+  learning: "Advanced Nest.js patterns and GraphQL",
+  hobbies: ["System Design", "Reading Tech Blogs", "Coffee Brewing ☕"],
+  funFact: "I debug databases faster than I can find my coffee mug! ☕💻"
 };
 ```
 
@@ -37,11 +37,11 @@ const masoumeh: Object = {
 <summary>🚀 More About Me</summary>
 <br>
 
-- 🎯 Goal-oriented developer with a knack for meeting tight deadlines
-- 🌱 Fast learner, always eager to explore new technologies
-- 🤝 Strong team player with excellent communication skills
-- 💡 Passionate about creating intuitive and efficient user interfaces
-- 🌟 Committed to writing clean, maintainable, and efficient code
+- 🎯 Goal-oriented backend developer with a focus on scalable and efficient systems
+- 🌱 Fast learner, always eager to explore new backend technologies and architectural patterns
+- 🤝 Strong team player with excellent problem-solving skills
+- 💡 Passionate about creating robust and high-performance server-side applications
+- 🌟 Committed to writing clean, maintainable, and efficient backend code
 
 </details>
 
@@ -49,19 +49,18 @@ const masoumeh: Object = {
 
 <div align="center">
 
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-<!--  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) -->
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-<!--  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) -->
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 </div>
 
